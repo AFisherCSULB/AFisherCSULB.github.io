@@ -1,0 +1,7 @@
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+
+My publications can be found here: https://www.researchgate.net/profile/Amanda_Fisher4
+
+

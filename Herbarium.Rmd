@@ -1,0 +1,7 @@
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+
+The CSULB Herbarium holds approximately 17,700 specimens. The collection is largely from Los Angeles, Orange, and Riverside Counties. Our oldest specimens were collected in the early 1950s. 
+
+We are currently in the process of databasing the collection in the NANSH Symbiota Portal (http://nansh.org/portal/). Within the next year we hope to add these records to the Consortium of California Herbaria. The herbarium received NSF funding for digitization in July, 2018. 

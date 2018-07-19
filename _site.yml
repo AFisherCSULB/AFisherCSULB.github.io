@@ -1,0 +1,26 @@
+name: "Amanda E. Fisher"
+output_dir: "."
+navbar:
+  title: "Amanda E. Fisher"
+  left:
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      href: research.html
+    - text: "Lab Members"
+      href: LabMembers.html
+    - text: "Herbarium Curation"
+      href: Herbarium.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/AFisherCSULB
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/A___Fisher
+    - icon: fa-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Amanda_Fisher4
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
