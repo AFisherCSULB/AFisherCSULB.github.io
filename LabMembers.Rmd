@@ -44,7 +44,7 @@ is a BS student in the molecular lab.
 <img src="images/Tang_Olmeda.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 
 ####Bryana Olmeda
-is the undergraduate collections manager of the herbarium. 
+is the undergraduate collections manager of the herbarium and an intern at Tidal Influence. 
 
 ####Keana Tang
 is a BS student and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She will also be a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.
@@ -68,7 +68,7 @@ Carolina Contreras
 
 Asusena Figueroa
 
-Hannah Garfin entered the CSULB MS GIS program
+Hannah Garfin entered the CSULB MS GIS program and also works at Tidal Influence
 
 Karla Gonzalez
 
