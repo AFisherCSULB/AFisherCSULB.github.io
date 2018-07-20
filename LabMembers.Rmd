@@ -1,14 +1,18 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
 # Current lab members
+
+<img src="images/Arias.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 
 #### Joshua Arias 
 is an MS student studying the phylogenomics of Acanthaceae focusing on the BAWN clade. He will be entering a PhD program at UC Riverside in Fall, 2018.
 
+
 ####Laymon Ball 
-is a BS student. She was awarded a position in the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. She was also a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas. 
+is a BS student. She was a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas.  She also received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.  
+
+<img src="images/Comito.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="right">
 
 ####Robert Comito 
 is an MS student studying the molecular phylogeny of *Barleria* using RADseq.
@@ -22,39 +26,55 @@ is a BS student working on Acanthaceae leaf anatomy. She was awarded the Bennett
 ####Semaria Kassa 
 is a BS student in the molecular lab. 
 
+<img src="images/McGowan.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+
 ####Harrison McGowan 
-is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California.
+is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.
+
+
+
+<img src="images/ANguyen.jpg" style="width:15%; border:2px solid; margin-right: 20px" align="right">
 
 ####Amy Nguyen
 is a BS student in the molecular lab.
+
+
+
+
+<img src="images/Tang_Olmeda.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 
 ####Bryana Olmeda
 is the undergraduate collections manager of the herbarium. 
 
 ####Keana Tang
-is a BS student and an intern at the Los Angeles Natural History Museum. She will also be a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota 
+is a BS student and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She will also be a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.
 
 
 
 # Former lab members
 
-Nneka Aruoma
+<img src="images/Aruoma.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+
+Nneka Aruoma 
 
 Brittany Betz
 
 Sierra Coleman
 
+
+<img src="images/Garfin_Contreras.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="right">
+
 Carolina Contreras
 
 Asusena Figueroa
 
-Hannah Garfin
+Hannah Garfin entered the CSULB MS GIS program
 
 Karla Gonzalez
 
-Mark Noda
+Mark Noda is employed at Paragon Labs
 
-Krystiana Oberhammer
+Krystiana Oberhammer  is employed at KP Environmental
 
 Bridgette Saroff
 
