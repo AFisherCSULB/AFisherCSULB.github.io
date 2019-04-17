@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>LabMembers.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -73,9 +72,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -100,6 +97,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -114,7 +114,6 @@ body {
   padding-top: 69px;
   margin-top: -69px;
 }
-
 .section h2 {
   padding-top: 69px;
   margin-top: -69px;
@@ -134,6 +133,43 @@ body {
 .section h6 {
   padding-top: 69px;
   margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,19 +191,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -241,66 +343,63 @@ $(document).ready(function () {
 <p><img src="images/Arias.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right"></p>
 <div id="joshua-arias" class="section level4">
 <h4>Joshua Arias</h4>
-<p>is an MS student studying the phylogenomics of Acanthaceae focusing on the BAWN clade. He will be entering a PhD program at UC Riverside in Fall, 2018.</p>
+<p>is an MS student studying the phylogenomics of Acanthaceae by combining transcriptome and genome-skim data. He is defending his MS thesis in Spring, 2019 and will be entering a NIH Introduction to Cancer Research Careers fellowship in Summer, 2019 with Dr. Sonja Berndt.</p>
 </div>
 <div id="laymon-ball" class="section level4">
 <h4>Laymon Ball</h4>
-<p>is a BS student. She was a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas. She also received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.</p>
+<p>is a BS student who studied the rhizosphere diversity of chloridoid grasses and the reproductive biology of <em>Justicia californica</em>. Laymon was a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas. She also received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. In Fall, 2019 Laymon will be entering Dr. Laura Lagomarsino’s lab at Louisiana State University to study pollination biology.</p>
+</div>
+<div id="angel-barnett" class="section level4">
+<h4>Angel Barnett</h4>
+<p>is a BS student working on the California Phenology Project in the Long Beach State Herbarium.</p>
 <p><img src="images/Comito.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="right"></p>
 </div>
 <div id="robert-comito" class="section level4">
 <h4>Robert Comito</h4>
-<p>is an MS student studying the molecular phylogeny of <em>Barleria</em> using RADseq.</p>
+<p>is an MS student studying the molecular phylogeny of <em>Barleria</em> (Acanthaceae) using RADseq, sampling &gt;170 taxa in this genus of 325 species. Robert is entering the Ph.D. program in Botany at Rancho Santa Ana Botanic Garden and Claremont Graduate University in Fall, 2019.</p>
 </div>
 <div id="sara-cuadra" class="section level4">
 <h4>Sara Cuadra</h4>
-<p>is a BS student in the herbarium.</p>
-</div>
-<div id="emily-do" class="section level4">
-<h4>Emily Do</h4>
-<p>is a BS student working on Acanthaceae leaf anatomy. She was awarded the Bennett and Peggy Kayser Research Award in 2018.</p>
-</div>
-<div id="semaria-kassa" class="section level4">
-<h4>Semaria Kassa</h4>
-<p>is a BS student in the molecular lab.</p>
+<p>is a BS student and the undergraduate collections manager of the Long Beach State Herbarium (LOB). She is a pivotal member of the Long Beach State team for the California Phenology Project</p>
 <p><img src="images/McGowan.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right"></p>
 </div>
 <div id="harrison-mcgowan" class="section level4">
 <h4>Harrison McGowan</h4>
-<p>is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.</p>
+<p>is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden in Summer, 2018.</p>
 <p><img src="images/ANguyen.JPG" style="width:15%; border:2px solid; margin-right: 20px" align="right"></p>
 </div>
 <div id="amy-nguyen" class="section level4">
 <h4>Amy Nguyen</h4>
-<p>is a BS student in the molecular lab.</p>
+<p>is a BS student in the molecular lab. She is studying the anatomy of chloridoid grass leaves to test if particular leaf anatomy traits are correlated with the evolution of C4 photosynthesis subtypes.</p>
+</div>
+<div id="marina-rice" class="section level4">
+<h4>Marina Rice</h4>
+<p>is a BS student working on the California Phenology Project in the Long Beach State Herbarium.</p>
 <p><img src="images/Tang_Olmeda.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right"></p>
-</div>
-<div id="bryana-olmeda" class="section level4">
-<h4>Bryana Olmeda</h4>
-<p>is the undergraduate collections manager of the herbarium and an intern at Tidal Influence.</p>
-</div>
-<div id="keana-tang" class="section level4">
-<h4>Keana Tang</h4>
-<p>is a BS student and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She will also be a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018.</p>
 </div>
 </div>
 <div id="former-lab-members" class="section level1">
 <h1>Former lab members</h1>
 <p><img src="images/Aruoma.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right"></p>
-<p>Nneka Aruoma</p>
-<p>Brittany Betz</p>
-<p>Sierra Coleman</p>
+<p>Nneka Aruoma assembled transcriptomes of California cord grass <em>Spartina foliosa</em> and sectioned leaves for her undergraduate honors thesis. She graduated with her BS in Biology in 2018 and is pursuing a Masters of Public Health.</p>
+<p>Bryana Olmeda was the undergraduate collections manager of the Long Beach State Herbarium (LOB) in Fall, 2018 and she was also a wetlands restoration intern at Tidal Influence. She graduated with her BS in Biology in December, 2018.</p>
+<p>Keana Tang was a BS student in the Long Beach State Herbarium (LOB) and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She was also a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. She is entering a MS in Dr. Brian Atkinson’s Paleobotany lab at the University of Kansas.</p>
+<p>Emily Do was a BS student working on Acanthaceae leaf anatomy and graduated in December, 2018. She was awarded the Bennett and Peggy Kayser Research Award in 2018 to collect leaf samples at the Huntington Botanic Garden in Altadena, California.</p>
+<p>Semaria Kassa was a BS student in the molecular lab and worked with Robert Comito on a RADseq phylogeny of the genus <em>Barleria</em> (Acanthaceae)</p>
+<p>Brittany Betz is a Biological Desktop Technician with SWCA Pasadena. In the lab she co-authored the Flora of the Oasis de los Osos, a University of California Natural Reserve on the edge of the Sonoran Desert.</p>
+<p>Sierra Coleman is a Project Coordinator at VCS Environmental. She worked on a checklist of the vascular plants of Pleasants Peak in the Santa Ana Mountains.</p>
+<p>Asusena Figueroa worked on a checklist of the vascular plants of Pleasants Peak in the Santa Ana Mountains.</p>
 <p><img src="images/Garfin_Contreras.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="right"></p>
-<p>Carolina Contreras</p>
-<p>Asusena Figueroa</p>
-<p>Hannah Garfin entered the CSULB MS GIS program and also works at Tidal Influence</p>
-<p>Karla Gonzalez</p>
-<p>Mark Noda is employed at Paragon Labs</p>
-<p>Krystiana Oberhammer is employed at KP Environmental</p>
-<p>Bridgette Saroff</p>
-<p>Chenyu Shen</p>
-<p>Renee Stewart</p>
-<p>Alan Vera</p>
+<p>Carolina Contreras studied morphological variation in lodgepole pine populations in Southern California and is pursuing a career in zoos and conservation.</p>
+<p>Hannah Garfin studied morphological variation in lodgepole pine populations in Southern California and entered the CSULB MS GIS program and also works at Tidal Influence</p>
+<p>Karla Gonzalez assisted with fieldwork for the Flora of the Oasis de los Osos.</p>
+<p>Mark Noda databased specimens in the LOB herbarium and is employed at Paragon Labs</p>
+<p>Krystiana Oberhammer volunteered in the LOB herbarium and studied the elevation change of collections of <em>Calochortus</em>. Kryssy is employed at KP Environmental.</p>
+<p>Bridgette Saroff modeled the climatic factors affecting the distribution of <em>Justicia californica</em> and is pursuing medical school.</p>
+<p>Chenyu Shen studied the flowering duration of <em>Justicia californica</em> in the Long Beach State greenhouses and is pursuing graduate school in Biology</p>
+<p>Renee Stewart volunteered in the LOB herbarium.</p>
+<p>Alan Vera databased specimens in the LOB herbarium and is pursuing medical school</p>
+<p>Jennie Nguyen worked on scientific illustration and is in veterinary school at Michigan State University.</p>
 </div>
 
 
