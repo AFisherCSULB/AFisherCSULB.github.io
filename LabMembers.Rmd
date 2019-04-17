@@ -24,6 +24,8 @@ is an MS student studying the molecular phylogeny of *Barleria* (Acanthaceae) us
 #### Sara Cuadra 
 is a BS student and the undergraduate collections manager of the Long Beach State Herbarium (LOB). She is a pivotal member of the Long Beach State team for the California Phenology Project
 
+#### Mariangel Fernandez
+is a BS student working with MS student Harrison McGowan on the flora of the Chiquito Basin. Her project is on the elevation and phenological changes of toyon (*Heteromeles arbutifolia*)
 
 <img src="images/McGowan.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 
@@ -37,7 +39,7 @@ is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtn
 is a BS student in the molecular lab. She is studying the anatomy of chloridoid grass leaves to test if particular leaf anatomy traits are correlated with the evolution of C4 photosynthesis subtypes.
 
 #### Marina Rice
-is a BS student working on the California Phenology Project in the Long Beach State Herbarium. 
+is a BS student working on the California Phenology Project in the Long Beach State Herbarium. Her project is on the elevation and phenological changes of white sage (*Salvia apiana*)
 
 
 <img src="images/Tang_Olmeda.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
@@ -57,9 +59,11 @@ was the undergraduate collections manager of the Long Beach State Herbarium (LOB
 Keana Tang
 was a BS student in the Long Beach State Herbarium (LOB)  and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She was also  a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. She is entering a MS in Dr. Brian Atkinson's Paleobotany lab at the University of Kansas.   
 
+<img src="images/Do.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 Emily Do 
 was a BS student working on Acanthaceae leaf anatomy and graduated in December, 2018. She was awarded the Bennett and Peggy Kayser Research Award in 2018 to collect leaf samples at the Huntington Botanic Garden in Altadena, California.
 
+<img src="images/Kassa.jpg" style="width:12%; border:2px solid; margin-right: 20px" align="right">
 Semaria Kassa 
 was a BS student in the molecular lab and worked with Robert Comito on a RADseq phylogeny of the genus *Barleria* (Acanthaceae)
 
