@@ -1,11 +1,31 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
-BIOL427 Plant Systematics is taught every Spring semester and surveys the vascular plant families, with a focus on California plants. Each student prepares a dried plant collection through participation on field trips. 
 
-BIOL439 Plant Morphology is taught every Fall semester. Students learn the morphology and anatomy of plants and techniques for geomorphometric analysis of plant form. 
+## **BIOL427 Plant Systematics** 
+is taught every Spring semester and surveys the vascular plant families, with a focus on California plants. Each student prepares a dried plant collection through participation on field trips. 
 
-BIOL490/590 Pollination Biology is a seminar focused on recent primary literature. Students present papers and observe pollinators for a plant on campus. 
+<img src="images/GoldenWestCollege Native Garden_2016.jpg" style="width:90%; border:2px solid; margin-right: 20px" align="right">
+
+
+
+
+
+
+
+
+
+***
+## **BIOL439 Plant Morphology**
+is taught every Fall semester. Students learn the morphology and anatomy of plants and techniques for geomorphometric analysis of plant form. 
+
+<img src="images/RibesPoster.jpg" style="width:100%; border:2px solid; margin-left: 20px" align="center">
+
+***
+
+## **BIOL490/590 Pollination Biology**
+is a seminar focused on recent primary literature. Students present papers and observe pollinators for a plant on campus. 
+
+<img src="images/Costas_DeepCanyon.jpg" style="width:40%; border:2px solid; margin-left: 20px" align="left">
 
 
