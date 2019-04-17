@@ -2,6 +2,8 @@
 
 <img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
+My research is on plant evolution and systematics. I was trained as a grass systematist and have also worked in the Acanthaceae family (*Barleria, Blepharis, Dyschoriste*). My students use next-generation sequencing data to estimate the phylogeny of genera and families. The NSF has funded research in my lab with collaborators Lucinda McDade (Rancho Santa Ana Botanic Garden), Carrie Kiel (Rancho Santa Ana Botanic Garden), and Erin Tripp (University of Colorado Boulder) on the pollination  of certain *Justicia* species and the potential effects on their flower morphology. 
+
 My publications can be found here: https://www.researchgate.net/profile/Amanda_Fisher4
 
 
