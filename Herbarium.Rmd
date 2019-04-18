@@ -2,6 +2,8 @@
 
 <img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
-The CSULB Herbarium holds approximately 18,000 specimens. The collection is largely from Los Angeles, Orange, and Riverside Counties. Our oldest specimens were collected in the early 1930s. 
+The CSULB Herbarium holds approximately 18,000 specimens. The collection is largely from Los Angeles, Orange, and Riverside Counties. Our oldest specimens were collected in the early 1930s. We are listed in the [Index Herbariorum](http://sweetgum.nybg.org/science/ih/) and our herbarium code is LOB.
 
-We are a member of the NSF-funded Capturing California's Flowers California Phenology Project (led by Dr. Jenn Yost at Cal Poly San Luis Obispo) and we are currently in the process of databasing the collection in the CCH2 Portal (http://www.portal.capturingcaliforniasflowers.org/portal/index.php).  The herbarium received NSF funding for digitization in July, 2018. In Spring, 2019 three student assistants and 15 volunteers imaged specimens.
+We are a member of the NSF-funded Capturing California's Flowers California Phenology Project (led by Dr. Jenn Yost at Cal Poly San Luis Obispo) and we are currently in the process of databasing the collection in the [CCH2 Portal](http://www.portal.capturingcaliforniasflowers.org/portal/index.php).  The herbarium received NSF funding for digitization in July, 2018. In Spring, 2019 three student assistants and 15 volunteers imaged specimens.
+
+<img src="images/Tang16.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left">
