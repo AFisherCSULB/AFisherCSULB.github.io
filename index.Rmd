@@ -7,13 +7,13 @@
 
 <img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
-I am an Assistant Professor of Botany and Curator of the Herbarium (LOB) at [Long Beach State University](https://www.csulb.edu). I teach upper-level Botany courses in the Department of Biological Sciences (BIOL427, BIOL439). Students in my research lab work on plant evolution questions using molecular and morphological data. I am particularly interested in systematics and estimating the plant tree of life. Some of my students work on floristics- the study of plant diversity in a particular place.  
+Plant evolution  using molecular and morphological data
 
-I graduated from the [University of Iowa](https://clas.uiowa.edu/envsci/) in 2004 with a BS in Environmental Sciences on the Botany track. In 2005 I began a PhD in Biology with Dr. Scot Kelchner at [Idaho State University](https://www.isu.edu/bios/), working on the systematics of the neotropical bamboo genus *Chusquea*.  In 2011 I began an NSF-funded postdoctoral fellowship at [Rancho Santa Ana Botanic Garden](https://rsabg.org) in Claremont, California to work on chloridoid grass systematics with Dr. Travis Columbus. In 2013 I became the RSABG postdoctoral fellow, working with Dr. Lucinda McDade on the systematics of several Acanthaceae genera. I am particularly interested in patterns of pollinator shifts and macro-evolutionary effects on floral morphology. 
 
-I am currently looking for undergraduate and MS students to research plant evolution. Please contact me if you are interested in joining the lab!
 
-Amanda [dot] Fisher [at] csulb [dot] edu
+
+
+
 
 
 #### **Lab Updates** 
