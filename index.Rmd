@@ -5,7 +5,6 @@
 
 <img src="images/Fisher_CSULB_officialPhoto small.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-<img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
 #### Plant evolution  using molecular and morphological data
 
@@ -14,10 +13,13 @@
 New Visual Guide to the Sclerophyllous-Leafed Shrubs in the Santa Ana Mountains of Southern California
 [Link to the pdf](https://drive.google.com/file/d/1q6QDeMPVeXv-rhgJRCTvMkdbJelA4JRU/view?usp=sharing)
 
-
-
+<br><br><br><br><br><br>
 
 #### **Lab Updates** 
+
+August 5-10, 2019 Amanda traveled to Florida with RSABG botanist Dr. Carrie Kiel to collect Justicia for the NSF-funded project on pollinator mediated selection. 
+
+August, 2019 Members of the lab traveled the Tucson, Arizona for the international Botany conference! Robert Comito and I gave talks and students presented posters: Harrison McGowan on the Flora of Chiquito Springs Basin, Laymon Ball on Justicia californica reproductive biology, Keana Tang on chaparral leaf shapes, and Bryana Olmeda & Marina Rice on herbarium digitization. 
 
 May 2, 2019 Robert Comito successfully defended his MS thesis "A RADseq Phylogeny of Barleria (Acanthaceae) Resolves Fine-Scale Relationships" with committee members Dr. Judy Brusslan and Dr. Iain Darbyshire (Kew).
 
