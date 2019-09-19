@@ -14,22 +14,30 @@ Amanda [dot] Fisher [at] csulb [dot] edu
 <br><br>
 
 ### Harrison McGowan 
-is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden in Summer, 2018.
+is an MS student working on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden in Summer, 2018 and presented his work at the 2019 Botany conference in Tucson, Arizona.
 <br><br>
 
-### Mariangel Fernandez
-is a BS student working with MS student Harrison McGowan on the flora of the Chiquito Basin. Her project is on the elevation and phenological changes of toyon (*Heteromeles arbutifolia*)
 
 <br><br>
 <img src="images/ANguyen.jpg" style="width:15%; border:2px solid; margin-right: 20px" align="right">
 
 ### Amy Nguyen
-is a BS student in the molecular lab. She is studying the anatomy of chloridoid grass leaves to test if particular leaf anatomy traits are correlated with the evolution of C4 photosynthesis subtypes.
+is a BS student in the molecular lab. She is studying the anatomy of chloridoid grass leaves to test if particular leaf anatomy traits are correlated with the evolution of C4 photosynthesis subtypes. She presented her research at the Fall, 2019 CNSM Research Symposium. Amy is also an herbarium assistant, databasing for the California Phenology Project.
+
+<br><br>
+
+## Monica Soenjoto 
+is a BS UROP student in the molecular lab. She is working on the Justicia pollination project, particularly *Justicia longii*! 
 
 <br><br>
 
 ### Marina Rice
-is a BS student working on the California Phenology Project in the Long Beach State Herbarium. Her project is on the elevation and phenological changes of white sage (*Salvia apiana*)
+is a BS student and the undergraduate Collections Manager of the Long Beach State Herbarium and team leader for the California Phenology Project. Her project is on the elevation and phenological changes of She is also working with MS student Harrison McGowan on the flora of the Chiquito Basin. She analyzed elevation and phenological data for white sage (*Salvia apiana*)
+
+<br><br>
+
+### Skye Idzinski
+is a BS student and herbarium assistant. She is databasing for the California Phenology Project.
 
 <br><br><br><br><br><br>
 
@@ -38,18 +46,18 @@ is a BS student working on the California Phenology Project in the Long Beach St
 # Former lab members
 
 Laymon Ball 
-was a BS student who studied the rhizosphere diversity of chloridoid grasses and the reproductive biology of *Justicia californica*. Laymon was a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas.  She also received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. In Fall, 2019 Laymon will be entering Dr. Laura Lagomarsino's lab at Louisiana State University to study pollination biology.
+was a BS student who studied the rhizosphere diversity of chloridoid grasses and the reproductive biology of *Justicia californica*. Laymon was a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas.  She also received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. In Fall, 2019 Laymon began a Ph.D.  with Dr. Laura Lagomarsino at Louisiana State University to study pollination biology.
 
 Angel Barnett
-worked on the California Phenology Project in the Long Beach State Herbarium. 
+worked on the California Phenology Project in the Long Beach State Herbarium and graduated in Spring, 2019.
 
 <img src="images/Comito.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="right">
 
 Robert Comito 
-was an MS student studying the molecular phylogeny of *Barleria* (Acanthaceae) using RADseq, sampling >170 taxa in this genus of 325 species. Robert is entering the Ph.D. program in Botany at Rancho Santa Ana Botanic Garden and Claremont Graduate University in Fall, 2019. 
+was an MS student studying the molecular phylogeny of *Barleria* (Acanthaceae) using RADseq, sampling >170 taxa in this genus of 325 species. Robert entered the Ph.D. program in Botany at Rancho Santa Ana Botanic Garden and Claremont Graduate University in Fall, 2019. 
 
 Sara Cuadra 
-was a BS student and the undergraduate collections manager of the Long Beach State Herbarium (LOB). She is a pivotal member of the Long Beach State team for the California Phenology Project
+was a BS student and the undergraduate collections manager of the Long Beach State Herbarium (LOB). She was a pivotal member of the Long Beach State team for the California Phenology Project. After graduation Sara began an internship with the Long Beach Water Department, focused on the lawn to gardens program.
 
 <img src="images/Arias.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 Joshua Arias 
@@ -60,7 +68,7 @@ was an MS student studying the phylogenomics of Acanthaceae by combining transcr
 Nneka Aruoma assembled transcriptomes of California cord grass *Spartina foliosa* and sectioned leaves for her undergraduate honors thesis. She graduated with her BS in Biology in 2018 and is pursuing a Masters of Public Health. 
  
 Bryana Olmeda
-was the undergraduate collections manager of the Long Beach State Herbarium (LOB) in Fall, 2018 and she was also a wetlands restoration intern at Tidal Influence. She graduated with her BS in Biology in December, 2018.
+was the undergraduate collections manager of the Long Beach State Herbarium (LOB) in Fall, 2018 and she was also a wetlands restoration intern at Tidal Influence. She graduated with her BS in Biology in December, 2018 and is a Seeds of Success intern with the Bureau of Land Management in Socorro, New Mexico. Bryana presented a poster on LOB at the 2019 Botany conference in Tucson, Arizona.
 
 Keana Tang
 was a BS student in the Long Beach State Herbarium (LOB)  and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She was also  a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. She is entering a MS in Dr. Brian Atkinson's Paleobotany lab at the University of Kansas.   
@@ -73,7 +81,10 @@ was a BS student working on Acanthaceae leaf anatomy and graduated in December, 
 Semaria Kassa 
 was a BS student in the molecular lab and worked with Robert Comito on a RADseq phylogeny of the genus *Barleria* (Acanthaceae)
 
-Brittany Betz is a Biological Desktop Technician with SWCA Pasadena. In the lab she co-authored the Flora of the Oasis de los Osos, a University of California Natural Reserve on the edge of the Sonoran Desert. 
+Mariangel Fernandez
+was a BS student working with MS student Harrison McGowan on the flora of the Chiquito Basin. She analyzed elevation and phenological data for toyon (*Heteromeles arbutifolia*)
+
+Brittany Betz is a Biological Desktop Technician with SWCA Pasadena. In the lab she co-authored the Flora of the Oasis de los Osos, a University of California Natural Reserve on the edge of the Sonoran Desert. After graduation she was a Seeds of Success intern with the Bureau of Land Management in Bishop, California.
 
 Sierra Coleman is a Project Coordinator at VCS Environmental. She worked on a checklist of the vascular plants of Pleasants Peak in the Santa Ana Mountains. 
 
