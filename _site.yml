@@ -9,7 +9,7 @@ navbar:
       href: research.html
     - text: "Lab Members"
       href: LabMembers.html
-    - text: "Herbarium Curation"
+    - text: "Herbarium"
       href: Herbarium.html
   right:
     - icon: fa-envelope fa-lg
