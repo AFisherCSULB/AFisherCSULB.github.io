@@ -1,14 +1,8 @@
----
----
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Fisher_CSULB_officialPhoto small.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
-
-
-#### Plant evolution and diversity
-
+<img src="images/DeepCanyonRainbow.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="center">
 
 <br><br><br><br><br><br>
 
-#### Welcome to the Fisher Lab website. I work with Masters students and undergraduates from Biology, Organismal Biology, and Environmental Science and Policy on questions of plant evolution and diversity. Much of my research in the last five years has focused on the way flowers evolve specialized forms when they are visited by different types of pollinators. The genus Justicia (Acanthaceae) has diverse stamen morphologies and studying these differences can give us better understanding of how plants evolve specializations in their reproductive organs to facilitate pollination. I also work with students interested in learning how to identify and document native plant diversity, especially for those seeking careers with government agencies, ecological consulting, or conservation organizations. 
+#### Welcome to the Fisher Lab at California State University, Long Beach
+I work with Masters students and undergraduates in Biology, Organismal Biology, and Environmental Science and Policy majors on questions of plant evolution and diversity. Much of my research in the last five years has focused on the way flowers evolve specialized forms when they are visited by different types of pollinators. The genus *Justicia* (Acanthaceae) has diverse stamen morphologies and studying these differences can give us better understanding of how plants evolve specializations in their reproductive organs to facilitate pollination. I also work with students interested in learning how to identify and document native plant diversity, especially for those seeking careers with government agencies, ecological consulting, or conservation organizations. 

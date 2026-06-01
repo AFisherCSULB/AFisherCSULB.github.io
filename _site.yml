@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Amanda E. Fisher"
   left:
+    - text: "Home"
+      href: index.html
     - text: "Teaching"
       href: teaching.html
     - text: "Research"
