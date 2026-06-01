@@ -1,5 +1,10 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+
+
+
+
+
 <img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
 My research is on plant evolution and systematics, particularly in the grasses and the Acanthaceae family (*Barleria, Blepharis, Dyschoriste*). Students in my lab use next-generation sequencing data to estimate phylogenies. These evolutionary trees are used to understand how plants are related to one another and how their different forms and characteristics evolved. Recent research in my lab has focused on the pollination  of certain *Justicia* species and the potential effects on their flower morphology. 

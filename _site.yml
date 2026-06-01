@@ -1,10 +1,12 @@
 name: "Amanda E. Fisher"
 output_dir: "."
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
 navbar:
   title: "Amanda E. Fisher"
   left:
-    - text: "Home"
-      href: index.html
     - text: "Teaching"
       href: teaching.html
     - text: "Research"
@@ -20,7 +22,3 @@ navbar:
       href: https://github.com/AFisherCSULB
     - icon: fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Amanda_Fisher4
-output:
-  html_document:
-    theme: paper
-    css: 'styles.css'
