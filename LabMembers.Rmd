@@ -18,6 +18,8 @@ I am currently looking for undergraduate and MS students to research plant evolu
 
 Amanda [dot] Fisher [at] csulb [dot] edu
 
+<img src="images/NickLeon.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
 
 ### Nicholas Rocha 
 is a MS student in the lab where he is working on a florula of the Lay, Glass, and Lower Filiorum Reserves of Palos Verdes Peninsula. He is also studying the population structure of a rare shrub that occurs on the Peninsula, *Lycium* *brevipes* var. *hassei*. 
@@ -48,6 +50,9 @@ worked in the herbarium, mounting specimens and organizing our seed cone collect
 ### Jaylin Leon 
 worked on the *Justicia* pollination project. She graduated with her B.S. in 2026. 
 
+<img src="images/Fitzpatrick.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
+
 ### Emily Fitzpatrick 
 completed their undergraduate honors thesis in the lab. Their thesis was titled "Tecate cypress management in the Cleveland National Forest. Persistence in the face of fire" Emily presented at the 2025 Botany conference and the Southern California Botanists Symposium. Emily is now a research scientist in the Dept of Integrative Biology at University of Texas, Austin
 
@@ -69,9 +74,15 @@ worked on the *Justicia* pollination project.
 ### Daniel Goldstein
 worked on the *Justicia* pollination project. He is now in the Forensic Sciences Masters program at UC Davis.
 
+<img src="images/Josie.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
+
 
 ### Josephine Palacios
 did her MS research on the evolution of pollination in *Justicia*. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference. 
+
+<img src="images/YutingWang.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
 
 ### Yuting Wang
 did her MS research on the phylogeny of the SAI clade of *Justicia* and evolution of corolla and pollen forms in the clade. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference and at the 2023 CSUPERB symposium. 
@@ -89,7 +100,7 @@ did his MS research on the flora of the Chiquito Basin in the Santa Ana Mtns, Cl
 
 
 <br><br>
-<img src="images/ANguyen.jpg" style="width:15%; border:2px solid; margin-right: 20px" align="right">
+
 
 ### Amy Nguyen
 was a BS student in the molecular lab. She is studying the anatomy of chloridoid grass leaves to test if particular leaf anatomy traits are correlated with the evolution of C4 photosynthesis subtypes. She presented her research at the Fall, 2019 CNSM Research Symposium. Amy was also an herbarium assistant, databasing for the California Phenology Project.
@@ -111,8 +122,8 @@ was a BS student and herbarium assistant. She databased for the California Pheno
 
 <br><br><br><br><br><br>
 
-<img src="images/Tang_Olmeda.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
-
+<img src="images/Laymon.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
 
 
 ### Laymon Ball 
@@ -139,11 +150,15 @@ was an MS student studying the phylogenomics of Acanthaceae by combining transcr
 ### Nneka Aruoma 
 assembled transcriptomes of California cord grass *Spartina foliosa* and sectioned leaves for her undergraduate honors thesis. She graduated with her BS in Biology in 2018.
  
+<img src="images/Bryana.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+
 ### Bryana Olmeda
 was the undergraduate collections manager of the Long Beach State Herbarium (LOB) in Fall, 2018 and also a wetlands restoration intern at Tidal Influence. Bryana graduated with their BS in Biology in December, 2018 and was a Seeds of Success intern with the Bureau of Land Management in Socorro, New Mexico. Bryana presented a poster on the LOB Herbarium at the 2019 Botany conference in Tucson, Arizona. They worked for several years in the herbarium at California Botanic Garden. Bryana completed a MS in floristics in Dr. Hannah Marx's lab at University of New Mexico. 
 
+<img src="images/Keana.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+
 ### Keana Tang
-was a BS student in the Long Beach State Herbarium (LOB)  and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She was also  a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. She completed a MS andn PhD in Dr. Brian Atkinson's Paleobotany lab at the University of Kansas.   
+was a BS student in the Long Beach State Herbarium (LOB)  and an intern at the Los Angeles Natural History Museum. She was formerly an intern for the Trinity Shasta National Forest. She was also  a PLANTS mentee at the Botany 2018 conference in Rochester, Minnesota and received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. She completed a MS and PhD in Dr. Brian Atkinson's Paleobotany lab at the University of Kansas.   
 
 <img src="images/Do.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 

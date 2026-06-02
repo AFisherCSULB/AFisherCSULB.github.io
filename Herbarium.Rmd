@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/white.png" style="width:25%; border:10px solid; margin-right: 20px" align="right">
 
 The CSULB Herbarium holds approximately 18,000 specimens of preserved plants and is a historic record of the wild plants in coastal Southern California. The collection is largely from Los Angeles, Orange, and Riverside Counties. We are listed in the [Index Herbariorum](http://sweetgum.nybg.org/science/ih/) and our herbarium code is LOB.
 
