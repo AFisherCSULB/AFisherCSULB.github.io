@@ -3,7 +3,7 @@
 
 
 ## **BIOL427 Plant Systematics** 
-is taught every Spring semester and surveys the vascular plant families, with a focus on California plants. Each student prepares a dried plant collection through participation on field trips. 
+is taught every Spring semester and surveys the vascular plant families, with a focus on California plants. Students prepare a dried plant collection or iNaturalist project through participation on field trips. 
 
 <img src="images/GoldenWestCollege Native Garden_2016.jpg" style="width:90%; border:2px solid; margin-right: 20px" align="right">
 
