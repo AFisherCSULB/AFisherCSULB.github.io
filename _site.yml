@@ -5,7 +5,7 @@ output:
     theme: paper
     css: 'styles.css'
 navbar:
-  title: "Amanda E. Fisher"
+  title: "Fisher Lab CSU Long Beach"
   left:
     - text: "Teaching"
       href: teaching.html
