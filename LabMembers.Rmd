@@ -18,11 +18,12 @@ I am currently looking for undergraduate and MS students to research plant evolu
 
 Amanda [dot] Fisher [at] csulb [dot] edu
 
-<img src="images/NickLeon.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
+<img src="images/NickLeon.JPG" style="width:100%; border:2px solid; margin-right: 20px" align="center">
 <br><br>
 
 ### Nicholas Rocha 
-is a MS student in the lab where he is working on a florula of the Lay, Glass, and Lower Filiorum Reserves of Palos Verdes Peninsula. He is also studying the population structure of a rare shrub that occurs on the Peninsula, *Lycium* *brevipes* var. *hassei*. 
+is a MS student in the lab where he is working on a florula of the Lay, Glass, and Lower Filiorum Reserves of Palos Verdes Peninsula. He is also studying the population structure of a rare shrub that occurs on the Peninsula, *Lycium* *brevipes* var. *hassei*. He received his BS from Cornell University in Entomology and Plant sciences. 
 
 
 ### Diego Uribe 
@@ -38,6 +39,9 @@ has assisted Nick Rocha with molecular lab work and is working on the *Justicia*
 ### Nancy Nyugen 
 works in the herbarium, mounting and repairing specimens 
 
+<br><br>
+<br><br>
+<br><br>
 
 # Lab alumni
 
@@ -50,7 +54,7 @@ worked in the herbarium, mounting specimens and organizing our seed cone collect
 ### Jaylin Leon 
 worked on the *Justicia* pollination project. She graduated with her B.S. in 2026. 
 
-<img src="images/Fitzpatrick.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Fitzpatrick.jpg" style="width:40%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
 
 ### Emily Fitzpatrick 
@@ -95,11 +99,11 @@ worked on the California Biodiversity Institute grant in the herbarium
 ### Genesis Ruiz Esparza 
 worked on the California Biodiversity Institute grant in the herbarium
 
-<img src="images/Josie.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Josie.jpg" style="width:40%; border:2px solid; margin-right: 20px" align="left">
 <br><br>
 
 ### Josephine (Rodriguez) Palacios
-did her MS research on the evolution of pollination in *Justicia*. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference. 
+did her MS research on the evolution of pollination in *Justicia*. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference. Josie completed her BS in Biology at CSULB.
 
 ### Mateo Quezado
 worked in the CSULB herbarium, mounting and repairing specimens
@@ -110,33 +114,36 @@ worked in the CSULB herbarium, mounting and repairing specimens
 ### Karen Hernandez
 worked in the CSULB herbarium, mounting and repairing specimens
 
-### Sona Karun
-worked in the CSULB herbarium, mounting and repairing specimens
 
-<img src="images/YutingWang.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/YutingWang.jpg" style="width:40%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
 
 ### Yuting Wang
-did her MS research on the phylogeny of the SAI clade of *Justicia* and evolution of corolla and pollen forms in the clade. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference and at the 2023 CSUPERB symposium. 
+did her MS research on the phylogeny of the SAI clade of *Justicia* and evolution of corolla and pollen forms in the clade. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference and at the 2023 CSUPERB symposium. Yuting completed her BS in Biology at CSULB.
+<br><br>
 
-<img src="images/Donovan.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+### Sona Karun
+worked in the CSULB herbarium, mounting and repairing specimens
 <br><br>
 
 ### Laura Abonce 
 worked on *Justicia* pollination with Yuting Wang and Josie Palacios. She presented a poster on her research at the National Conference for Undergraduate Research.
 
+<img src="images/Donovan.JPG" style="width:40%; border:2px solid; margin-right: 20px" align="left">
+<br><br>
+
 ### Daniel Donovan
 did his MS research on the flora of Ladd Canyon in the Santa Ana Mountains, Cleveland National Forest, California. His research was published in the journal Aliso and he presented at the California Native Plant Society conference in San Jose, CA in 2022. He is now a field botanist at San Diego Museum of Natural History.
+<br><br>
+<br><br>
 
-
-<img src="images/McGowan.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/McGowan.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
 
 ### Harrison McGowan 
-did his MS research on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden in Summer, 2018 and presented his work at the 2019 Botany conference in Tucson, Arizona. He is now an ecological consultant in California.
+did his MS research on the flora of the Chiquito Basin in the Santa Ana Mtns, Cleveland National Forest, California. He received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden in Summer, 2018 and presented his work at the 2019 Botany conference in Tucson, Arizona. He is now an ecological consultant in California. Harrison completed his BS at University of California, Santa Cruz.
 <br><br>
 
-<br><br>
 
 ### Amy Nguyen
 was a BS student in the molecular lab. She is studying the anatomy of chloridoid grass leaves to test if particular leaf anatomy traits are correlated with the evolution of C4 photosynthesis subtypes. She presented her research at the Fall, 2019 CNSM Research Symposium. Amy was also an herbarium assistant, databasing for the California Phenology Project.
@@ -144,54 +151,56 @@ was a BS student in the molecular lab. She is studying the anatomy of chloridoid
 
 ### Monica Soenjoto 
 was a BS UROP student in the molecular lab.
-
 <br><br>
 
 ### Marina Rice
 was a BS student and the undergraduate Collections Manager of the Long Beach State Herbarium and team leader for the California Phenology Project. She also worked with MS student Harrison McGowan on the flora of the Chiquito Basin. Marina is now a Genetic Counseling Assistant at GeneDX
-
 <br><br>
 
 ### Nathan Ocampo
 worked with Yuting Wang
+<br><br>
 
 ### Skye Idzinski
 was a BS student and herbarium assistant. She databased for the California Phenology Project.
-
 <br><br>
-<img src="images/Laymon.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+
+<img src="images/Laymon.JPG" style="width:40%; border:2px solid; margin-right: 20px" align="left">
 <br><br>
 
 ### Laymon Ball 
 was a BS student who studied the rhizosphere diversity of chloridoid grasses and the reproductive biology of *Justicia californica*. Laymon was a PLANTS mentee for the Botany 2017 conference in Fort Worth, Texas.  She also received a scholarship to attend the Systematics Research Institute at Rancho Santa Ana Botanic Garden for Summer, 2018. In 2025 Laymon defended her Ph.D. in pollination biology from Dr. Laura Lagomarsino's lab at Louisiana State University.
-
+<br><br>
 <br><br>
 
 ### Angel Barnett
 worked on the California Phenology Project in the Long Beach State Herbarium and graduated with a B.S. in Spring, 2019. They are now a model and actor in New York.
+<br><br>
 
-<img src="images/Comito.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Comito.jpg" style="width:50%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
 
 ### Robert Comito 
-was an MS student studying the molecular phylogeny of *Barleria* (Acanthaceae) using RADseq. Robert completed a Ph.D. in Botany at Rancho Santa Ana Botanic Garden and Claremont Graduate University in 2024. He is a visiting lecturer of Biology at the Claremont Colleges. 
-
+was an MS student studying the molecular phylogeny of *Barleria* (Acanthaceae) using RADseq. Robert completed a Ph.D. in Botany at Rancho Santa Ana Botanic Garden and Claremont Graduate University in 2024. He is a visiting lecturer of Biology at the Claremont Colleges. Robert completed his BS at University of California, Berkeley.
 <br><br>
 
 ### Sara Cuadra-Vargas
-was a BS student and the undergraduate collections manager of the Long Beach State Herbarium (LOB). She was a pivotal member of the Long Beach State team for the California Phenology Project. After graduation Sara began an internship with the Long Beach Water Department, focused on the lawn to gardens program. She is currently a Conservation Biology with the Xerces Society. 
+was a BS student and the undergraduate collections manager of the Long Beach State Herbarium (LOB). She was a pivotal member of the Long Beach State team for the California Phenology Project. After graduation Sara began an internship with the Long Beach Water Department, focused on the lawn to gardens program. She is currently a Conservation Biologist with the Xerces Society. 
 
-<img src="images/Arias.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Arias.jpg" style="width:50%; border:2px solid; margin-right: 20px" align="middle">
+<br><br>
 
 ### Joshua Arias 
-was an MS student studying the phylogenomics of Acanthaceae by combining transcriptome and genome-skim data. He defended his MS thesis in Spring 2019 and began working on cancer research at the National Institutes of Health in Summer 2019 with Dr. Sonja Berndt.
+was an MS student studying the phylogenomics of Acanthaceae by combining transcriptome and genome-skim data. He defended his MS thesis in Spring 2019 and began working on cancer research at the National Institutes of Health in Summer 2019 with Dr. Sonja Berndt. Josh completed his BS at University of California, Irvine
+<br><br>
 
 <img src="images/Aruoma.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
  
 ### Nneka Aruoma 
 assembled transcriptomes of California cord grass *Spartina foliosa* and sectioned leaves for her undergraduate honors thesis. She graduated with her BS in Biology in 2018.
 <br><br>
-<img src="images/Bryana.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Bryana.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
 ### Bryana Olmeda
 was the undergraduate collections manager of the Long Beach State Herbarium (LOB) in Fall, 2018 and also a wetlands restoration intern at Tidal Influence. Bryana graduated with their BS in Biology in December, 2018 and was a Seeds of Success intern with the Bureau of Land Management in Socorro, New Mexico. Bryana presented a poster on the LOB Herbarium at the 2019 Botany conference in Tucson, Arizona. They worked for several years in the herbarium at California Botanic Garden. Bryana completed a MS in floristics in Dr. Hannah Marx's lab at University of New Mexico. 
@@ -207,7 +216,7 @@ was a BS student in the Long Beach State Herbarium (LOB)  and an intern at the L
 ### Emily Do 
 was a BS student working on Acanthaceae leaf anatomy and graduated in December, 2018. She was awarded the Bennett and Peggy Kayser Research Award in 2018 to collect leaf samples at the Huntington Botanic Garden in Altadena, California.
 <br><br>
-<img src="images/Kassa.jpg" style="width:12%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Kassa.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="left">
 <br><br>
 
 ### Semaria (Kassa) Mechal 
@@ -222,21 +231,21 @@ was a BS student working with MS student Harrison McGowan on the flora of the Ch
 is a Biological Desktop Technician with SWCA Pasadena. In the lab she co-authored the Flora of the Oasis de los Osos, a University of California Natural Reserve on the edge of the Sonoran Desert. After graduation she was a Seeds of Success intern with the Bureau of Land Management in Bishop, California. She is now a Wetlands Project Manager at SWCA.
 <br><br>
 
-### Sierra Valladares 
+### Sierra (Coleman) Valladares 
 is a Managing Consultant/Biologist at VCS Environmental. She worked on a checklist of the vascular plants of Pleasants Peak in the Santa Ana Mountains. 
 <br><br>
 
 ### Asusena Figueroa 
 worked on a checklist of the vascular plants of Pleasants Peak in the Santa Ana Mountains. 
 <br><br>
-<img src="images/Garfin_Contreras.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="right">
+<img src="images/Garfin_Contreras.jpg" style="width:70%; border:2px solid; margin-right: 20px" align="center">
 <br><br>
 
 ### Carolina Contreras 
 studied morphological variation in lodgepole pine populations in Southern California and is pursuing a career in zoos and conservation.
 <br><br>
 
-### Hannah Craddock 
+### Hannah (Garfin) Craddock 
 studied morphological variation in lodgepole pine populations in Southern California and entered the CSULB MS GIS program and also worked at Tidal Influence. She is now a Habitat Restoration Ecologist with Glenn Lukos Associates
 <br><br>
 
