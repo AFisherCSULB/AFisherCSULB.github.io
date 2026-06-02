@@ -12,11 +12,9 @@ is taught every Spring semester and surveys the vascular plant families, with a 
 <br><br><br><br><br><br>
 
 
-<br><br><br>
-<img src="images/Huntington.JPG" style="width:40%; border:2px solid; margin-left: 20px" align="left">
+
 
 <br><br><br><br><br><br>
-
 
 
 
@@ -25,9 +23,10 @@ is taught every Fall semester. Students learn the morphology and anatomy of plan
 
 
 
+<br><br><br>
+<img src="images/Huntington.JPG" style="width:80%; border:2px solid; margin-left: 20px" align="center">
 
 
 
-<img src="images/Costas_DeepCanyon.jpg" style="width:40%; border:2px solid; margin-left: 20px" align="left">
 
 
