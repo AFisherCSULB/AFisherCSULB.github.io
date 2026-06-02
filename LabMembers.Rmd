@@ -9,7 +9,7 @@
 # Current lab members
 
 
-<img src="images/Fisher_CSULB_officialPhoto small.jpg" style="width:25%; border:10px solid; margin-left: 15px" align="left">
+<img src="images/Fisher_CSULB_officialPhoto small.jpg" style="width:40%; border:5px solid; float: left; margin-right: 15px;" align="left">
 
 #### Amanda Fisher
 I am a Professor of Botany and Curator of the Herbarium (LOB) at [Long Beach State University](https://www.csulb.edu). I regularly teach upper-level Botany courses in the Department of Biological Sciences (BIOL427, BIOL439). I am particularly interested in plant systematics and how flowers have evolved with pollinators. Some of my students work on floristics- the study of plant diversity in a particular place. I graduated from the [University of Iowa](https://clas.uiowa.edu/envsci/) in 2004 with a BS in Environmental Sciences on the Botany track. In 2005 I began a PhD in Biology with Dr. Scot Kelchner at [Idaho State University](https://www.isu.edu/bios/), working on the systematics of the neotropical bamboo genus *Chusquea*.  In 2011 I began an NSF-funded postdoctoral fellowship at [Rancho Santa Ana Botanic Garden](https://rsabg.org) in Claremont, California to work on chloridoid grass systematics with Dr. Travis Columbus. Then in 2013 I had the pleasure of being an RSABG postdoctoral fellow, working with Dr. Lucinda McDade on the systematics of several Acanthaceae genera (*Barleria, Dyschoriste*). My recent work has been on resolving the Acanthaceae phylogeny using nuclear loci and investigating  patterns of pollinator shifts and macro-evolutionary effects on floral morphology. 
@@ -56,23 +56,38 @@ worked on the *Justicia* pollination project. She graduated with her B.S. in 202
 ### Emily Fitzpatrick 
 completed their undergraduate honors thesis in the lab. Their thesis was titled "Tecate cypress management in the Cleveland National Forest. Persistence in the face of fire" Emily presented at the 2025 Botany conference and the Southern California Botanists Symposium. Emily is now a research scientist in the Dept of Integrative Biology at University of Texas, Austin
 
+### Jake Himelfarb
+worked with Emily Fitzpatrick on tecate cypress
+
 ### Kelsey Imrie 
 worked on the *Justicia* pollination project. In 2025 she was awarded the competitive Summer Research Assistantship from the CSULB  Office of Research and Economic Development. She presented her project on variation in *Justicia* pollen production and pollinator adaptations in 2025. She is now a Biologist at AECOM.
 
 ### Annie Le 
 was an undergraduate honors student in the lab. Her thesis was titled Vegetative anatomy and staminal development of American water willow, *Justicia americana* (Acanthaceae). She is now in Pharmacy School. 
 
+### Ramses Cuellar de Lucio
+volunteered in the lab
+
 ### Valerie Tran 
 was an undergraduate honors student in the lab. Her thesis was titled "Examining the relationship between pollinators and pollen size and shape in *Justicia* (Acanthaceae)"
 
 ### Tayahna Agtarap 
-worked on the *Justicia* pollination project and presented a poster on her research at the National Conference for Undergraduate Research and a talk at the Orange County Chapter of the California Native Plant Society. 
+worked on the *Justicia* pollination project and presented a poster on her research at the National Conference for Undergraduate Research and a talk at the Orange County Chapter of the California Native Plant Society. Tay participated in an REU program at Washington University, St. Louis in 2023
 
 ### Kaya Sadi 
-worked on the *Justicia* pollination project.
+worked on the *Justicia* pollination project
+
+### Ashley Galdamez
+worked on the *Justicia* pollination project
 
 ### Daniel Goldstein
 worked on the *Justicia* pollination project. He is now in the Forensic Sciences Masters program at UC Davis.
+
+### Kylie Tran
+worked on the *Justicia* pollination project
+
+### Van Nguyen
+worked on the California Biodiversity Institute grant in the herbarium
 
 ### Sara Ramirez 
 worked on the California Biodiversity Institute grant in the herbarium
@@ -83,10 +98,20 @@ worked on the California Biodiversity Institute grant in the herbarium
 <img src="images/Josie.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
 
-### Josephine Palacios
+### Josephine (Rodriguez) Palacios
 did her MS research on the evolution of pollination in *Justicia*. Her work was funded by the National Science Foundation and she presented a poster at the 2021 Botany conference. 
 
+### Mateo Quezado
+worked in the CSULB herbarium, mounting and repairing specimens
 
+### Christian Caro
+worked in the CSULB herbarium, mounting and repairing specimens
+
+### Karen Hernandez
+worked in the CSULB herbarium, mounting and repairing specimens
+
+### Sona Karun
+worked in the CSULB herbarium, mounting and repairing specimens
 
 <img src="images/YutingWang.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
@@ -97,6 +122,8 @@ did her MS research on the phylogeny of the SAI clade of *Justicia* and evolutio
 <img src="images/Donovan.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="right">
 <br><br>
 
+### Laura Abonce 
+worked on *Justicia* pollination with Yuting Wang and Josie Palacios. She presented a poster on her research at the National Conference for Undergraduate Research.
 
 ### Daniel Donovan
 did his MS research on the flora of Ladd Canyon in the Santa Ana Mountains, Cleveland National Forest, California. His research was published in the journal Aliso and he presented at the California Native Plant Society conference in San Jose, CA in 2022. He is now a field botanist at San Diego Museum of Natural History.
@@ -125,6 +152,9 @@ was a BS student and the undergraduate Collections Manager of the Long Beach Sta
 
 <br><br>
 
+### Nathan Ocampo
+worked with Yuting Wang
+
 ### Skye Idzinski
 was a BS student and herbarium assistant. She databased for the California Phenology Project.
 
@@ -141,6 +171,7 @@ was a BS student who studied the rhizosphere diversity of chloridoid grasses and
 worked on the California Phenology Project in the Long Beach State Herbarium and graduated with a B.S. in Spring, 2019. They are now a model and actor in New York.
 
 <img src="images/Comito.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="right">
+<br><br>
 
 ### Robert Comito 
 was an MS student studying the molecular phylogeny of *Barleria* (Acanthaceae) using RADseq. Robert completed a Ph.D. in Botany at Rancho Santa Ana Botanic Garden and Claremont Graduate University in 2024. He is a visiting lecturer of Biology at the Claremont Colleges. 
